@@ -8,6 +8,7 @@ GEM
     rack-test (0.6.2)
       rack (>= 1.0)
     rake (10.2.2)
+    rdiscount (2.1.7.1)
     sinatra (1.4.5)
       rack (~> 1.4)
       rack-protection (~> 1.4)
@@ -21,4 +22,5 @@ DEPENDENCIES
   minitest
   rack-test
   rake
+  rdiscount
   sinatra
