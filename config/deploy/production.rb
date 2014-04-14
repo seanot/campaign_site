@@ -1,3 +1,6 @@
+set :stage, :production
+set :branch, "master"
+
 # Simple Role Syntax
 # ==================
 # Supports bulk-adding hosts to roles, the primary
@@ -13,6 +16,9 @@
 # definition into the server list. The second argument
 # something that quacks like a hash can be used to set
 # extended properties on the server.
+
+
+
 server 'otoole4mo.com',
   user: 'seanot',
   roles: %w{web app},
