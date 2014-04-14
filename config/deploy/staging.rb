@@ -22,7 +22,6 @@ server 'otoole4mo.com',
   ssh_options: {
     user: 'seanot',
     keys: %w(/home/seanotoole/.ssh/id_rsa),
-    foreward_agent: false,
     auth_methods: %w(publickey)
   }
 
