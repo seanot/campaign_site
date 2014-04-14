@@ -2,7 +2,9 @@ require 'sinatra/base'
 require 'rdiscount'
 
 class StaticApp < Sinatra::Base
+
   get '/:file?' do
+    cache_control :public, :must_revalidate, :max_age => 60
     begin
       file = params[:file] || 'index'
       markdown file.to_sym, :layout_engine => :erb
