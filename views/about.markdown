@@ -1,1 +1,3 @@
-#About the Candidate
+Sean O'Toole lives in Kansas City with his wife, Cisse Spragins. A native of St. Paul, Minnesota, Sean has spent over 25 years working in the agricultural commodities arena as a broker and trader of futures and options. He is a member of the Chicago Board of Trade and a past member of the Kansas City Board of Trade and the Minneapolis Grain Exchange. Sean is also actively involved in the software development field and is working to develop applications for the agribusiness sector.
+
+Realizing that he was a libertarian many years before he became familiar with the Libertarian Party, Sean has long spoken out against government waste and the foolishness of politicians who believe that they can tax and spend our way to properity.
